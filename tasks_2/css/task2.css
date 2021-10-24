@@ -1,0 +1,30 @@
+table{
+    width: 670px;
+    height: 610px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.th_g{
+    background-color: rgb(127, 185, 9);
+    color: black;
+}
+
+.price{
+    background-color: rgb(9, 238, 9);
+}
+
+.head{
+    background-color: rgb(77, 74, 74);
+    color: blanchedalmond;
+    font-size: 20px;
+}
+tr:nth-child(even){
+    background-color: #eceaea;
+}
+
+.fas{
+    color: rgb(65, 185, 49);
+    font-size: 19px;
+    
+}

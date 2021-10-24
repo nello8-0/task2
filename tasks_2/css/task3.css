@@ -1,0 +1,41 @@
+table{
+    width: 500px;
+    height: 100px;
+    /* border-collapse:separate; */
+    text-align: center;
+    font-size: large;
+}
+.title{
+    background-color: rgb(115, 115, 212);
+    font-size: 25px;
+    border: 3px solid black;
+}
+.subject{
+    text-decoration-line:underline;
+    text-decoration-color: blueviolet;
+    color: blueviolet;
+    font-size: 22px;
+}
+.title2{
+    background-color: rgb(118, 118, 207);
+    font-size: 25px;
+    border: 3px solid black;
+    color: black;
+    width: 38px;
+}
+.title3{
+    background-color: rgb(110, 110, 219);
+    font-size: 25px;
+    border: 3px solid black;
+    color: black;
+}
+.row{
+    border: 3px solid rgb(102, 63, 194);
+    /* width: 170px; */
+    width:139px;
+}
+
+p{
+    color: rgb(0, 47, 255);
+    font-size: 21px;
+}

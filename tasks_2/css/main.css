@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(255 244 244);
+    background-image: url(../imgs/clouds.png);
+    background-repeat: repeat-x;
+    /* text-align: center; */
+    position: relative;
+    width: 900px;
+    height: 1000px;
+    align-items: center;
+    opacity: .99;
+    left: 150px;
+    /* left: 150px; */
+}
+.submit {
+    position: absolute;
+    right: 20px;
+    bottom: 400px;
+    background-color: #ffeb3b;
+}
+
+.input1 {
+    display: inline-block;
+    border-spacing: 80px;
+}
+.textarea {
+    padding: 40px;
+    position: absolute;
+    top: 171px;
+    left: 43px;
+}
+
+.table{
+    position: absolute;
+    bottom: 70px;
+}
+
+pre{
+    position: absolute;
+    top: 900px;
+    left: -70px;
+}
+
+caption{
+    text-align: left;
+    top: 70px;
+    position: relative;
+    left: 80px;
+    font-size: 20px;
+}
+
+.man{
+    position: relative;
+    left: -170px;
+}
+.span{
+    top: 50px;
+    left: 100px;
+    position: absolute;
+}
+.yellow{
+    position: relative;
+    bottom: 120px;
+}
+
+
